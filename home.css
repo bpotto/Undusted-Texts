@@ -1,0 +1,51 @@
+a {
+	font-size: 150%;
+	font-family: Georgia, serif;
+	padding: 0 5px 0;
+	border-style: ridge;
+	border-radius: 15px;
+	text-decoration: none;
+	color: black;
+	background: DarkGoldenrod;
+	text-align: center;
+	}
+body {
+	background: BurlyWood;
+	font-family: Garamond;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0 0 0 15px;
+}
+.update::before {
+	content:"\2626";
+	position: absolute;
+	left: 5px;
+	margin: 0 0 0 5px;
+}
+footer {
+	font-family: Helvetica;
+	border-style: ridge;
+	border-radius: 15px;
+	background: Goldenrod;
+	text-align: center;
+}
+.poems {
+	white-space: pre-wrap;
+}
+li {
+	padding: 10px 0px 10px;
+}
+.source {
+	font-size: 70%;
+}
+h4 {
+	text-align: center;
+}
