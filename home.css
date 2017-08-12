@@ -1,7 +1,13 @@
+@font-face {
+	font-family: 'AquilineTwo';
+	src: url('AquilineTwo.ttf');
+	src: url('AquilineTwo-webfont.woff');
+}
 a {
 	font-size: 150%;
 	font-family: Georgia, serif;
 	padding: 0 5px 0;
+	margin: 5px 5px 5px 5px;
 	border-style: ridge;
 	border-radius: 15px;
 	text-decoration: none;
@@ -11,7 +17,37 @@ a {
 	}
 body {
 	background: BurlyWood;
+}
+header {
+	background: BurlyWood;
+}
+.head_c {
+	background: BurlyWood;
+	display: block;
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+}
+#header1 {
+	font-family: AquilineTwo;
+	font-size: 300%;
+	display: block;
+	position: relative;
+	left: 200px;
+	width: 60%;
+	padding-bottom: 15px;
+	border-bottom: solid;
+}
+.body_c {
+	background: BurlyWood;
 	font-family: Garamond;
+	display: block;
+	position: relative;
+	left: 200px;
+	width: 60%;
+	padding: 0px;
+	margin: 5px;
+	height: 100%;
 }
 h1 {
 	text-align: center;
@@ -19,10 +55,30 @@ h1 {
 h2 {
 	text-align: center;
 }
+h4 {
+	text-align: center;
+}
 ul {
 	list-style-type: none;
 	padding: 0px;
-	margin: 0 0 0 15px;
+	margin: 0 0 0 30px;
+}
+li {
+	padding: 10px 0px 10px;
+}	
+.foot_c {
+	font-family: Helvetica;
+	border-style: ridge;
+	border-radius: 15px;
+	background: Goldenrod;
+	text-align: center;
+	position: relative;
+	bottom: 0;
+	left: 200px;
+	width: 60%;
+	height: 15%;
+	display: block;
+	float: both;
 }
 .update::before {
 	content:"\2626";
@@ -30,22 +86,19 @@ ul {
 	left: 5px;
 	margin: 0 0 0 5px;
 }
-footer {
-	font-family: Helvetica;
-	border-style: ridge;
-	border-radius: 15px;
-	background: Goldenrod;
-	text-align: center;
-}
+
 .poems {
 	white-space: pre-wrap;
 }
-li {
-	padding: 10px 0px 10px;
-}
+
 .source {
 	font-size: 70%;
 }
-h4 {
-	text-align: center;
+.nav_bar {
+	float: left;
+	width: 200px;
+	padding: 5px;
+	margin: 0;
+	margin-right: 20%;
+	position: fixed;
 }
