@@ -55,6 +55,9 @@ h1 {
 h2 {
 	text-align: center;
 }
+h3 {
+	text-align: center;
+}
 h4 {
 	text-align: center;
 }
@@ -66,6 +69,16 @@ ul {
 li {
 	padding: 10px 0px 10px;
 }	
+.no_buttons {
+	font-size: 100%;
+	font-family: Garamond;
+	padding: 0;
+	margin: 0;
+	border-style: none;
+	background: none;
+	color: blue;
+	text-decoration: underline;
+}
 .foot_c {
 	font-family: Helvetica;
 	border-style: ridge;
@@ -93,6 +106,9 @@ li {
 
 .source {
 	font-size: 70%;
+}
+.intro {
+	font-size: 75%;
 }
 .nav_bar {
 	float: left;
