@@ -113,6 +113,12 @@ li {
 .source {
 	font-size: 70%;
 }
+
+.title {
+	text-align: center;
+	font-style: italic;
+}
+
 .intro {
 	font-size: 75%;
 }
