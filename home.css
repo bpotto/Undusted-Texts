@@ -99,6 +99,11 @@ li {
 	display: block;
 	float: both;
 }
+
+.web_cred::after {
+content: "Website ©2017-2018 B.P. Otto.  All rights reserved.";
+}
+
 .update::before {
 	content:"\2626";
 	position: absolute;
