@@ -30,7 +30,7 @@ href = "../css/home.css">
 <p class="intro">This Middle English poem was written in 15th-century handwriting, so that is the latest 
 it could have been written.  The Latin lines that provide the epigram were very common in English devotional 
 writing of the Late Middle Ages.  I strove to retain as many of the original words (with modernized spelling) 
-as possible, though I did change the common <i>merciable</i> to <i>merciful</i>.</p>
+as possible, though I did change the common <i>merciable</i> to <i>merciful</i>.</h2>
 <h2>"Whi art thow froward sith I am Merciable"</h2>
 <p class="title">In cruce sum pro te, qui peccas; desine, pro me,
 Desine; do veniam; dic culpam, retraho penam.</p>

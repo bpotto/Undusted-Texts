@@ -9,7 +9,7 @@
 
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/</loc>
-  <lastmod>2018-04-09T05:00:24+00:00</lastmod>
+  <lastmod>2018-04-10</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
@@ -25,7 +25,7 @@
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/poems/index.html</loc>
-  <lastmod>2018-04-09T05:00:24+00:00</lastmod>
+  <lastmod>2018-04-10</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -90,12 +90,12 @@
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/updates.html</loc>
-  <lastmod>2018-04-09T05:00:24+00:00</lastmod>
+  <lastmod>2018-04-10</lastmod>
   <priority>0.50</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/index.html</loc>
-  <lastmod>2018-04-09T05:00:24+00:00</lastmod>
+  <lastmod>2018-04-10</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
 </url>
@@ -214,6 +214,10 @@
   <lastmod>2018-04-09T05:00:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
+<url>
+	<loc>https://bpotto.github.io/Undusted-Texts/poems/hojeda_1.html</loc>
+	<lastmod>2018-04-10</lastmod>
+	<priority>0.64</priority>
+</url>
 
 </urlset>
