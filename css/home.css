@@ -121,6 +121,11 @@ content: "Retejo ©2017-2018 B.P. Otto.  Ĉiuj rajtoj rezervitaj.";
 	white-space: pre-wrap;
 }
 
+.poems_c {
+	white-space: pre-wrap;
+	text-align: center;
+}
+
 .source {
 	font-size: 70%;
 }
