@@ -9,9 +9,20 @@
 
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/</loc>
-  <lastmod>2018-05-06</lastmod>
+  <lastmod>2018-05-07</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bpotto.github.io/Undusted-Texts/updates.html</loc>
+  <lastmod>2018-05-07</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://bpotto.github.io/Undusted-Texts/index.html</loc>
+  <lastmod>2018-05-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/s_lives/index.html</loc>
@@ -30,7 +41,7 @@
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/treatises/index.html</loc>
-  <lastmod>2018-05-06</lastmod>
+  <lastmod>2018-05-07</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -87,17 +98,6 @@
   <loc>https://bpotto.github.io/Undusted-Texts/homilies/maximust_1.html</loc>
   <lastmod>2018-05-06</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bpotto.github.io/Undusted-Texts/updates.html</loc>
-  <lastmod>2018-05-06</lastmod>
-  <priority>0.50</priority>
-</url>
-<url>
-  <loc>https://bpotto.github.io/Undusted-Texts/index.html</loc>
-  <lastmod>2018-05-06</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/s_lives/abramios.html</loc>
@@ -222,6 +222,11 @@
 <url>
 	<loc>https://bpotto.github.io/Undusted-Texts/s_lives/george.html</loc>
 	<lastmod>2018-05-06</lastmod>
+	<priority>0.64</priority>
+</url>
+<url>
+	<loc>https://bpotto.github.io/Undusted-Texts/treatises/juan_avila_01.html</loc>
+	<lastmod>2018-05-07</lastmod>
 	<priority>0.64</priority>
 </url>
 
