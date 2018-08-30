@@ -9,18 +9,18 @@
 
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/</loc>
-  <lastmod>2018-08-07</lastmod>
+  <lastmod>2018-08-30</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/updates.html</loc>
-  <lastmod>2018-08-07</lastmod>
+  <lastmod>2018-08-30</lastmod>
   <priority>0.50</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/index.html</loc>
-  <lastmod>2018-08-07</lastmod>
+  <lastmod>2018-08-30</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
 </url>
@@ -41,7 +41,7 @@
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/treatises/index.html</loc>
-  <lastmod>2018-05-07</lastmod>
+  <lastmod>2018-08-30</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -252,6 +252,11 @@
 <url>
 	<loc>https://bpotto.github.io/Undusted-Texts/poems/hermann_joseph.html</loc>
 	<lastmod>2018-08-07</lastmod>
+	<priority>0.64</priority>
+</url
+<url>
+	<loc>https://bpotto.github.io/Undusted-Texts/treatises/hieronymos_jerusalem.html</loc>
+	<lastmod>2018-08-30</lastmod>
 	<priority>0.64</priority>
 </url>
 
