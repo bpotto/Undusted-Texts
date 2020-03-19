@@ -9,18 +9,18 @@
 
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/</loc>
-  <lastmod>2018-09-13</lastmod>
+  <lastmod>2020-03-19</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/updates.html</loc>
-  <lastmod>2018-09-13</lastmod>
+  <lastmod>2020-03-19</lastmod>
   <priority>0.50</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/index.html</loc>
-  <lastmod>2018-09-13</lastmod>
+  <lastmod>2020-03-19</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
 </url>
@@ -41,7 +41,7 @@
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/treatises/index.html</loc>
-  <lastmod>2018-08-30</lastmod>
+  <lastmod>2020-03-19</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -264,6 +264,9 @@
 	<lastmod>2018-09-13</lastmod>
 	<priority>0.64</priority>
 </url>
-
-
+<url>
+	<loc>https://bpotto.github.io/Undusted-Texts/treatises/augustine_001.html</loc>
+	<lastmod>2020-03-19</lastmod>
+	<priority>0.64</priority>
+</url>
 </urlset>
