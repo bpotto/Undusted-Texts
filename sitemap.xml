@@ -9,18 +9,18 @@
 
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/</loc>
-  <lastmod>2020-04-09</lastmod>
+  <lastmod>2020-04-12</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/updates.html</loc>
-  <lastmod>2020-04-09</lastmod>
+  <lastmod>2020-04-12</lastmod>
   <priority>0.50</priority>
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/index.html</loc>
-  <lastmod>2020-04-09</lastmod>
+  <lastmod>2020-04-12</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
 </url>
@@ -31,7 +31,7 @@
 </url>
 <url>
   <loc>https://bpotto.github.io/Undusted-Texts/homilies/index.html</loc>
-  <lastmod>2020-03-21</lastmod>
+  <lastmod>2020-04-12</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -282,6 +282,11 @@
 <url>
 	<loc>https://bpotto.github.io/Undusted-Texts/poems/romanos_001.html</loc>
 	<lastmod>2020-04-09</lastmod>
+	<priority>0.64</priority>
+</url>
+<url>
+	<loc>https://bpotto.github.io/Undusted-Texts/homilies/amphilochios_001.html</loc>
+	<lastmod>2020-04-12</lastmod>
 	<priority>0.64</priority>
 </url>
 </urlset>
