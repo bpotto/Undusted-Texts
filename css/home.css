@@ -103,11 +103,11 @@ li {
 }
 
 .web_cred::after {
-content: "Website ©2017-2020 B.P. Otto.  All rights reserved.";
+content: "Website ©2017-2024 B.P. Otto.  All rights reserved.";
 }
 
 .web_cred_esp::after {
-content: "Retejo ©2017-2020 B.P. Otto.  Ĉiuj rajtoj rezervitaj.";
+content: "Retejo ©2017-2024 B.P. Otto.  Ĉiuj rajtoj rezervitaj.";
 }
 
 .update::before {
